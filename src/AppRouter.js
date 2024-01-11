@@ -1,7 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import { useAuthenticator } from "@aws-amplify/ui-react";
 import React from "react";
-import Posts from "./Posts";
 import Vendor from "./Vendor";
 import Vendors from "./components/Vendors/vendors";
 
